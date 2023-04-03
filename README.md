@@ -5,7 +5,7 @@ Application en java/javaFX ayant comme fonctionnalités :
 - Création d'une salle
 * Réservation
 + modification
-+ ajout d'une salle
+* ajout d'une salle
 
 ### Built With
 JAVA - JAVAFX
