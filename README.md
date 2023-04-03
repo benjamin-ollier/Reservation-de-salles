@@ -11,9 +11,9 @@ Application en java/javaFX ayant comme fonctionnalités :
 JAVA - JAVAFX
 
 ![Screenshot](1.png)
-![plot](./blob/main/images/1.png)
+![plot](./images/1.png)
 ![https://github.com/benji0812/Reservation-de-salles/blob/main/images/1.png]
 <p align="center">
-  <img src=".blob/main/images/1.png" width="350" title="hover text">
+  <img src="./images/1.png" width="350" title="hover text">
   <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
 </p>
